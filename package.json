@@ -1,0 +1,14 @@
+{
+  "name": "seccioncinco",
+  "version": "1.0.0",
+  "description": "aplicacion clima",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laurach",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.1.0"
+  }
+}
